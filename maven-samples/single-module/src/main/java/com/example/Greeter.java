@@ -21,6 +21,6 @@ public class Greeter {
   
   publics static void main(String args[]){
     
-	  System.out.println("Hello! My Name is Pradeep!!! This is a Poll SCM Example");
+	  System.out.println("I Tested this Code and Its working fine.");
   }
 }
