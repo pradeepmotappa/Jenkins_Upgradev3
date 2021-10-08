@@ -19,7 +19,7 @@ public class Greeter {
   }
 
   
-  publics static void main(String args[]){
+  public static void main(String args[]){
     
 	  System.out.println("I Tested this Code and Its working fine.");
   }
