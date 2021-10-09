@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example.maven-samples</groupId>
-  <artifactId>${timestamp}-single-module-project</artifactId>
+  <artifactId>${maven.build.timestamp}-single-module-project</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>A Single Maven Module</name>
@@ -12,13 +12,10 @@
   <url>http://www.example.com</url>
 
   <properties>
-   <timestamp>${maven.build.timestamp}</timestamp>
-   <maven.build.timestamp.format>yyyy-MM-dd-HH-mm</maven.build.timestamp.format>
-  </properties>
-
-  <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+    <timestamp>${maven.build.timestamp}</timestamp>
+    <maven.build.timestamp.format>yyyy-MM-dd-HH-mm</maven.build.timestamp.format>
   </properties>
 
   <distributionManagement>
