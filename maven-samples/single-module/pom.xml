@@ -15,7 +15,7 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <timestamp>${maven.build.timestamp}</timestamp>
-    <maven.build.timestamp.format>yyyy-MM-dd-HH-mm</maven.build.timestamp.format>
+    <maven.build.timestamp.format>yyyyMMdd-HHmm</maven.build.timestamp.format>
   </properties>
 
   <distributionManagement>
