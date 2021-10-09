@@ -21,6 +21,6 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("I Tested this Code and Its working fine.");
+	  System.out.println("Archieve Test.");
   }
 }
