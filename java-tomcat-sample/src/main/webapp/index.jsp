@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Tomcat Application Dependencies!!!</h2>
+<h2>WAR Deployment on Tomcat!!!</h2>
 </body>
 </html>
