@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>WAR Deployment on Tomcat!!!</h2>
+<h2>Deployed Successfully. Redeployed for 2nd Time</h2>
 </body>
 </html>
