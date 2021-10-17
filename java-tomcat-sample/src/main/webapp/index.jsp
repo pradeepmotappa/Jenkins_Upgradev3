@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deployed Successfully. Redeployed for 4nd Time</h2>
+<h2>Automation of Tomcat has been completed</h2>
 </body>
 </html>
